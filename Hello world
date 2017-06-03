@@ -1,0 +1,14 @@
+package hello.world;
+
+/** Program: Hello world
+ * File: HelloWolrd.java
+ * Summary: Prints out one line of output to the console; Hello world
+ * @author Justin Freetage
+ * Date: June 3 2017
+ */
+   public class HelloWorld {
+   public static void main(String[] args) {
+      // Prints "Hello, World" in the terminal window.
+      System.out.println("Hello, World");
+   }
+}
